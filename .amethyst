@@ -1,0 +1,42 @@
+{
+    "mod1": [
+        "command"
+    ],
+    "mod2": [
+        "command",
+        "option"
+    ],
+    "mod3": [
+        "option"
+    ],
+    "shrink-main": {
+        "mod": "mod3",
+        "key": "h"
+    },
+    "expand-main": {
+        "mod": "mod3",
+        "key": "l"
+    },
+    "toggle-float": {
+        "mod": "mod3",
+        "key": "t"
+    },
+     "focus-screen-1": {
+    },
+    "focus-screen-2": {
+    },
+    "focus-screen-3": {
+    },
+    "focus-screen-4": {
+    },
+    "select-tall-layout": {
+    },
+    "select-wide-layout": {
+    },
+    "select-column-layout": {
+    },
+    "reevaluate-windows": {
+    },
+    "display-current-layout": {
+    },
+}
